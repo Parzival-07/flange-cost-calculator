@@ -1,3 +1,4 @@
+
 import streamlit as st
 import json
 import os
@@ -289,12 +290,12 @@ if check_password():
                     else: st.warning("Cannot calculate pieces from billet.")
 
                     st.subheader("2. Cost Breakdown per Piece")
-                    steel_cost_per_piece = cw_flange * calc_cost_steel_per_kg
-                    st.metric(label="Steel Cost per Piece", value=f"₹{steel_cost_per_piece:.2f}")
-                    machining_cost_per_piece = calc_machining_labour * cw_flange
-                    st.metric(label="Machining Labour per Piece", value=f"₹{machining_cost_per_piece:.2f}")
-                    forging_cost_per_piece = calc_forging_labour * cw_flange
-                    st.metric(label="Forging Labour per Piece", value=f"₹{forging_cost_per_piece:.2f}")
+                    steel_cost_per_piece = material_consumed_per_piece_kg * calc_cost_steel_per_kg
+                    st.metric(label="Steel Cost per Piece (on CW+Waste)", value=f"₹{steel_cost_per_piece:.2f}")
+                    machining_cost_per_piece = calc_machining_labour * material_consumed_per_piece_kg
+                    st.metric(label="Machining Labour per Piece (on CW+Waste)", value=f"₹{machining_cost_per_piece:.2f}")
+                    forging_cost_per_piece = calc_forging_labour * cw_flange 
+                    st.metric(label="Forging Labour per Piece (on CW)", value=f"₹{forging_cost_per_piece:.2f}")
 
                     transportation_weight_basis_kg = cw_flange
                     transportation_basis_label = "(based on CW as FT not available/provided)"
