@@ -526,7 +526,7 @@
               "FT": 8.20,
               "SECTION": "100X100"
             },
-            "WITHOUT HUB +\n1-1/2\" X 150# SORF (SOLID": {
+            "WITHOUT HUB +1-1/2\" X 150# SORF (SOLID)": {
               "FW": 10.3,
               "CW": 11.35,
               "FT": null,
@@ -576,7 +576,7 @@
               "FT": 12.30,
               "SECTION": "100X100"
             },
-            "WITHOUT HUB +\n 2''X150# SORF WITHOUT HUB": {
+            "WITHOUT HUB + 2''X150# SORF WITHOUT HUB": {
               "FW": 12.45,
               "CW": 13.8,
               "FT": null,
@@ -594,7 +594,7 @@
               "FT": 8.60,
               "SECTION": "100X100"
             },
-            "WITHOUT HUB +                            \n2'' X 150# SORF (THRD.": {
+            "WITHOUT HUB + 2'' X 150# SORF (THRD.)": {
               "FW": 12.7,
               "CW": 14.0,
               "FT": null,
@@ -626,7 +626,7 @@
               "FT": null,
               "SECTION": "130X130"
             },
-            "WITHOUT HUB +\n 2''X150# SORF WITHOUT HUB": {
+            "WITHOUT HUB +2''X150# SORF WITHOUT HUB": {
               "FW": 12.45,
               "CW": 13.8,
               "FT": null,
@@ -644,7 +644,7 @@
               "FT": 8.60,
               "SECTION": "130X130"
             },
-            "WITHOUT HUB +                            \n2'' X 150# SORF (THRD.": {
+            "WITHOUT HUB + 2'' X 150# SORF (THRD.": {
               "FW": 12.7,
               "CW": 14.0,
               "FT": null,
@@ -724,7 +724,7 @@
               "FT": 13.70,
               "SECTION": "130X130"
             },
-            "WITHOUT HUB + 3\" X 150# SORF \nWITHOUT HUB": {
+            "WITHOUT HUB + 3\" X 150# SORF WITHOUT HUB": {
               "FW": 21.4,
               "CW": 23.6,
               "FT": null,
@@ -1997,7 +1997,7 @@
               "FT": null,
               "SECTION": "130X130"
             },
-            "+ 3'' X 150# SORF (THRD": {
+            "+ 3'' X 150# SORF (THRD)": {
               "FW": 23.9,
               "CW": 26.4,
               "FT": 17.40,
@@ -2275,13 +2275,13 @@
               "FT": 5.90,
               "SECTION": "100X100"
             },
-            ". + 1/2'' X 150# SORF (SOLID": {
+            " + 1/2'' X 150# SORF (SOLID)": {
               "FW": 8.75,
               "CW": 9.65,
               "FT": 6.70,
               "SECTION": "100X100"
             },
-            ". (SP98MM BORE) + 1/2'' X 150# SORF (SOLID": {
+            " (SP98MM BORE) + 1/2'' X 150# SORF (SOLID)": {
               "FW": 8.85,
               "CW": 9.8,
               "FT": null,
@@ -3433,10 +3433,10 @@
       "300#": {
         "SCH.80": {
           "150X150": {
-            "1'' X 300# SORF+1.5'' X 150# SORF+1'' X 600# SORTJ": {
+            "+1'' X 300# SORF+1.5'' X 150# SORF+1'' X 600# SORTJ": {
               "FW": 30.25,
               "CW": 33.9,
-              "FT": 25.88,
+              "FT": 22.68,
               "SECTION": "150X150"
             },
             "(Base)": {
@@ -3459,10 +3459,10 @@
         },
         "SCH.40": {
           "150X150": {
-            "1'' X 300# SORF+1.5'' X 150# SORF+1'' X 600# SORTJ": {
+            "+1'' X 300# SORF+1.5'' X 150# SORF+1'' X 600# SORTJ": {
               "FW": 29.35,
               "CW": 32.9,
-              "FT": 24.5,
+              "FT": 21.30,
               "SECTION": "150X150"
             },
             "(Base)": {
@@ -3570,7 +3570,7 @@
             "+ 1-1/2\" X 300# SORF (SOLID)  + 2'' X 150# SORF(SOLID)": {
               "FW": 47.4,
               "CW": 52.8,
-              "FT": 38.18,
+              "FT": 35.48,
               "SECTION": "160X160"
             },
             "(Base)": {
@@ -3584,7 +3584,7 @@
             "+ 1-1/2\" X 300# SORF (SOLID)  + 2'' X 150# SORF(SOLID)": {
               "FW": 47.4,
               "CW": 52.8,
-              "FT": 38.18,
+              "FT": 35.48,
               "SECTION": "200X200"
             },
             "(Base)": {
@@ -3600,7 +3600,7 @@
             "+ 1-1/2\" X 300# SORF(SOLID)  + 2'' X 150# SORF(SOLID)": {
               "FW": 45.75,
               "CW": 51.2,
-              "FT": 35.75,
+              "FT": 33.05,
               "SECTION": "160X160"
             },
             "(Base)": {
@@ -3614,7 +3614,7 @@
             "+ 1-1/2\" X 300# SORF(SOLID)  + 2'' X 150# SORF(SOLID)": {
               "FW": 45.75,
               "CW": 51.2,
-              "FT": 35.75,
+              "FT": 33.05,
               "SECTION": "200X200"
             },
             "(Base)": {
@@ -3665,10 +3665,10 @@
       "150#": {
         "SCH.40": {
           "200X200": {
-            "+  4''+ 3/4'' X 150# SORF": {
+            "+  4'' X 150# SORF+ 3/4'' X 150# SORF": {
               "FW": 43.0,
               "CW": 48.5,
-              "FT": null,
+              "FT": 31.36,
               "SECTION": "200X200"
             },
             "(Base)": {
@@ -3683,10 +3683,10 @@
       "300#": {
         "SCH.40": {
           "200X200": {
-            "+  4''+ 3/4'' X 150# SORF": {
+            "+  4''X 150# SORF+ 3/4'' X 150# SORF": {
               "FW": 68.0,
               "CW": 76.5,
-              "FT": null,
+              "FT": 50.99,
               "SECTION": "200X200"
             }
           }
@@ -4358,7 +4358,7 @@
       "150#": {
         "SCH.40": {
           "130X130": {
-            "(1-1/2 X 150# SORF SOLID)": {
+            "+(1-1/2 X 150# SORF SOLID)": {
               "FW": 18.80,
               "CW": 21.2,
               "FT": null,
